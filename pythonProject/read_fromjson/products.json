@@ -1,0 +1,7 @@
+[
+  {"id": 1,"name": "bus","price": 6420,"category": "toy","qty": 2},
+  {"id": 1,"name": "bus","price": 5420,"category": "toy","qty": 2},
+  {"id": 1,"name": "car","price": 7420,"category": "toy","qty": 2},
+  {"id": 1,"name": "ssam","price": 4200,"category": "phonw","qty": 2},
+  {"id": 1,"name": "iphones","price": 420,"category": "phonw","qty": 2},
+  {"id": 1,"name": "bus","price": 420,"category": "toy","qty": 2}]
